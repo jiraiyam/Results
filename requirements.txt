@@ -8,4 +8,4 @@ scipy
 openpyxl
 scikit-learn
 networkx 
-
+sqlite3
